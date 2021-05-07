@@ -1,6 +1,5 @@
-# FrontendMentorChallenge-StatsPreviewCard
-Challenge 1 - Stats preview card component
-
+# Frontend Mentor Challenge - Stats Preview Card
+Challenge 1 
 Brief
 Your challenge is to build out this card component and get it looking as close to the design as possible.
 
